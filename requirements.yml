@@ -2,5 +2,5 @@
 roles:
   - name: buluma.bootstrap
   - name: buluma.epel
-  - name: robertdebock.rpmfusion
+  - name: buluma.rpmfusion
 collections:
