@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.1](https://github.com/buluma/ansible-role-obsproject/tree/v0.1.1) (2022-04-18)
+
+[Full Changelog](https://github.com/buluma/ansible-role-obsproject/compare/v0.1.0...v0.1.1)
+
 ## [v0.1.0](https://github.com/buluma/ansible-role-obsproject/tree/v0.1.0) (2022-04-18)
 
 [Full Changelog](https://github.com/buluma/ansible-role-obsproject/compare/6348a69af12d98412bcfd82cbc8ae21400a91bc7...v0.1.0)
