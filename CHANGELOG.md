@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump actions/checkout from 3 to 4 [\#13](https://github.com/buluma/ansible-role-obsproject/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#12](https://github.com/buluma/ansible-role-obsproject/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v0.2.0](https://github.com/buluma/ansible-role-obsproject/tree/v0.2.0) (2024-01-05)
