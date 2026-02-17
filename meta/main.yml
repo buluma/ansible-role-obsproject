@@ -2,11 +2,10 @@
 galaxy_info:
   author: buluma
   role_name: obsproject
-  description: Install obsproject on your system.
+  description: 'Install obsproject on your system.'
   license: Apache-2.0
   company: none
-  min_ansible_version: "2.12"
-
+  min_ansible_version: 2.12
   platforms:
     - name: Debian
       versions:
@@ -17,8 +16,6 @@ galaxy_info:
     - name: Ubuntu
       versions:
         - all
-
   galaxy_tags:
     - obsproject
-
 dependencies: []
