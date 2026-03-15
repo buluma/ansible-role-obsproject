@@ -9,6 +9,10 @@
 - Update action [\#9](https://github.com/buluma/ansible-role-obsproject/issues/9)
 - rebuild action [\#8](https://github.com/buluma/ansible-role-obsproject/issues/8)
 
+**Merged pull requests:**
+
+- Bump docker/setup-buildx-action from 3 to 4 [\#24](https://github.com/buluma/ansible-role-obsproject/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v24.3.31](https://github.com/buluma/ansible-role-obsproject/tree/v24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-obsproject/compare/v0.4.0...v24.3.31)
