@@ -37,3 +37,4 @@
     - role: buluma.bootstrap
     - role: buluma.epel
     - role: buluma.rpmfusion
+    - role: buluma.powertools
