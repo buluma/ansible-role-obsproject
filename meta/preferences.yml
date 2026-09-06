@@ -4,7 +4,8 @@
 platforms:
   - name: EL
     versions:
-      - "10"
+      # Excludes 10: EPEL10 has no obs-studio package yet (EL10 too new,
+      # package hasn't been rebuilt upstream for it).
       - "9"
   - name: Debian
     versions:

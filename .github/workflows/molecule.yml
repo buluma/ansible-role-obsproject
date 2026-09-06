@@ -44,10 +44,9 @@ jobs:
       fail-fast: false
       matrix:
         distro:
-          - image: "docker-molecule-images"
-            tag: "rockylinux10"
-          - image: "docker-molecule-images"
-            tag: "almalinux10"
+          # rockylinux10/almalinux10 excluded: EPEL10 has no obs-studio
+          # package yet (EL10 too new, package hasn't been rebuilt
+          # upstream for it). See meta/preferences.yml.
           - image: "docker-molecule-images"
             tag: "rockylinux9"
           - image: "docker-molecule-images"
