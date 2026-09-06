@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- ci: exclude EL10 from obsproject molecule matrix [\#31](https://github.com/buluma/ansible-role-obsproject/pull/31) ([buluma](https://github.com/buluma))
 - Bump ansible/ansible-lint from 26.6.0 to 26.8.0 [\#30](https://github.com/buluma/ansible-role-obsproject/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 7 to 7.6.0 [\#29](https://github.com/buluma/ansible-role-obsproject/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
 
