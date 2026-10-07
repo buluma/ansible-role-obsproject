@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-obsproject/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-obsproject/compare/v26.9.0...HEAD)
+
+**Merged pull requests:**
+
+- Enable native Dependabot auto-merge with required CI [\#33](https://github.com/buluma/ansible-role-obsproject/pull/33) ([buluma](https://github.com/buluma))
+
 ## [v26.9.0](https://github.com/buluma/ansible-role-obsproject/tree/v26.9.0) (2026-09-06)
 
 [Full Changelog](https://github.com/buluma/ansible-role-obsproject/compare/v26.6.1...v26.9.0)
