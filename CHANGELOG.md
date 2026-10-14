@@ -1,11 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-obsproject/tree/HEAD)
+## [v26.10.9](https://github.com/buluma/ansible-role-obsproject/tree/v26.10.9) (2026-10-07)
 
-[Full Changelog](https://github.com/buluma/ansible-role-obsproject/compare/v26.9.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-obsproject/compare/v26.9.0...v26.10.9)
 
 **Merged pull requests:**
 
+- Bump release-drafter/release-drafter from 7.7.0 to 7.9.0 [\#34](https://github.com/buluma/ansible-role-obsproject/pull/34) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Enable native Dependabot auto-merge with required CI [\#33](https://github.com/buluma/ansible-role-obsproject/pull/33) ([buluma](https://github.com/buluma))
 
 ## [v26.9.0](https://github.com/buluma/ansible-role-obsproject/tree/v26.9.0) (2026-09-06)
