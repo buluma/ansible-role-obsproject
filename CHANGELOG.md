@@ -7,6 +7,7 @@
 **Merged pull requests:**
 
 - Bump ansible/ansible-lint from 26.9.0 to 26.10.0 [\#36](https://github.com/buluma/ansible-role-obsproject/pull/36) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump release-drafter/release-drafter from 7.9.0 to 7.10.0 [\#35](https://github.com/buluma/ansible-role-obsproject/pull/35) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v26.10.9](https://github.com/buluma/ansible-role-obsproject/tree/v26.10.9) (2026-10-07)
 
