@@ -6,6 +6,8 @@
 
 **Merged pull requests:**
 
+- ANS-70: Fix changelog workflow [\#40](https://github.com/buluma/ansible-role-obsproject/pull/40) ([buluma](https://github.com/buluma))
+- Bump release-drafter/release-drafter from 7.10.0 to 7.11.0 [\#39](https://github.com/buluma/ansible-role-obsproject/pull/39) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 26.10.1 to 26.11.0 [\#38](https://github.com/buluma/ansible-role-obsproject/pull/38) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 26.10.0 to 26.10.1 [\#37](https://github.com/buluma/ansible-role-obsproject/pull/37) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 26.9.0 to 26.10.0 [\#36](https://github.com/buluma/ansible-role-obsproject/pull/36) ([dependabot[bot]](https://github.com/apps/dependabot))
@@ -38,11 +40,6 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-obsproject/compare/v24.3.31...v26.6.0)
 
-**Closed issues:**
-
-- Update action [\#9](https://github.com/buluma/ansible-role-obsproject/issues/9)
-- rebuild action [\#8](https://github.com/buluma/ansible-role-obsproject/issues/8)
-
 **Merged pull requests:**
 
 - Bump docker/setup-buildx-action from 3 to 4 [\#24](https://github.com/buluma/ansible-role-obsproject/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
@@ -54,6 +51,7 @@
 **Merged pull requests:**
 
 - Bump dependabot/fetch-metadata from 1 to 2 [\#21](https://github.com/buluma/ansible-role-obsproject/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#18](https://github.com/buluma/ansible-role-obsproject/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#17](https://github.com/buluma/ansible-role-obsproject/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#16](https://github.com/buluma/ansible-role-obsproject/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
 
@@ -63,7 +61,6 @@
 
 **Merged pull requests:**
 
-- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#18](https://github.com/buluma/ansible-role-obsproject/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 6.0.1 to 6.0.3 [\#15](https://github.com/buluma/ansible-role-obsproject/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v0.3.0](https://github.com/buluma/ansible-role-obsproject/tree/v0.3.0) (2024-01-17)
@@ -79,10 +76,6 @@
 ## [v0.2.0](https://github.com/buluma/ansible-role-obsproject/tree/v0.2.0) (2024-01-05)
 
 [Full Changelog](https://github.com/buluma/ansible-role-obsproject/compare/v0.1.1...v0.2.0)
-
-**Closed issues:**
-
-- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#10](https://github.com/buluma/ansible-role-obsproject/issues/10)
 
 ## [v0.1.1](https://github.com/buluma/ansible-role-obsproject/tree/v0.1.1) (2022-04-18)
 
