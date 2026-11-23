@@ -63,6 +63,7 @@ The machine needs to be prepared. In CI this is done using [`molecule/default/pr
     - role: buluma.bootstrap
     - role: buluma.epel
     - role: buluma.rpmfusion
+    - role: buluma.powertools
 ```
 
 Also see a [full explanation and example](https://buluma.github.io/how-to-use-these-roles.html) on how to use these roles.
@@ -81,6 +82,7 @@ The following roles are used to prepare a system. You can prepare your system in
 |[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|
 |[buluma.epel](https://galaxy.ansible.com/buluma/epel)|[![Build Status GitHub](https://github.com/buluma/ansible-role-epel/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-epel/actions)|
 |[buluma.rpmfusion](https://galaxy.ansible.com/buluma/rpmfusion)|[![Build Status GitHub](https://github.com/buluma/ansible-role-rpmfusion/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-rpmfusion/actions)|
+|[buluma.powertools](https://galaxy.ansible.com/buluma/powertools)|[![Build Status GitHub](https://github.com/buluma/ansible-role-powertools/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-powertools/actions)|
 
 ## [Context](#context)
 
@@ -96,7 +98,7 @@ This role has been tested on these [container images](https://hub.docker.com/u/b
 
 |container|tags|
 |---------|----|
-|[EL](https://hub.docker.com/r/buluma/docker-molecule-images)|10, 9|
+|[EL](https://hub.docker.com/r/buluma/docker-molecule-images)|9|
 |[Debian](https://hub.docker.com/r/buluma/docker-molecule-images)|all|
 |[Fedora](https://hub.docker.com/r/buluma/docker-molecule-images)|44, 43|
 |[Ubuntu](https://hub.docker.com/r/buluma/docker-molecule-images)|all|
