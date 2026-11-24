@@ -2,10 +2,19 @@
 
 ## [Unreleased](https://github.com/buluma/ansible-role-obsproject/tree/HEAD)
 
-[Full Changelog](https://github.com/buluma/ansible-role-obsproject/compare/v26.10.9...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-obsproject/compare/v26.11.0...HEAD)
 
 **Merged pull requests:**
 
+- Regenerate files with ansible-generator [\#42](https://github.com/buluma/ansible-role-obsproject/pull/42) ([buluma](https://github.com/buluma))
+
+## [v26.11.0](https://github.com/buluma/ansible-role-obsproject/tree/v26.11.0) (2026-11-22)
+
+[Full Changelog](https://github.com/buluma/ansible-role-obsproject/compare/v26.10.9...v26.11.0)
+
+**Merged pull requests:**
+
+- Update CHANGELOG.md [\#41](https://github.com/buluma/ansible-role-obsproject/pull/41) ([github-actions[bot]](https://github.com/apps/github-actions))
 - ANS-70: Fix changelog workflow [\#40](https://github.com/buluma/ansible-role-obsproject/pull/40) ([buluma](https://github.com/buluma))
 - Bump release-drafter/release-drafter from 7.10.0 to 7.11.0 [\#39](https://github.com/buluma/ansible-role-obsproject/pull/39) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 26.10.1 to 26.11.0 [\#38](https://github.com/buluma/ansible-role-obsproject/pull/38) ([dependabot[bot]](https://github.com/apps/dependabot))
